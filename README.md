@@ -3,16 +3,9 @@ TailAdmin is a high-quality, open-source, and **free Tailwind CSS admin template
 powerful web applications and dashboard-admin projects.
 
 
-[![tailwind admin template](https://ucarecdn.com/364f2f57-6e1a-4ca4-9fc8-ab721029f6c3/tailadmingh.png)](https://tailadmin.com/)
 
-### [✨ Visit Website](https://tailadmin.com/)
 
-### [🚀 PRO Demo](https://demo.tailadmin.com/)
-### [🚀 FREE Demo](https://free-demo.tailadmin.com/)
 
-### TailAdmin PRO vs TailAdmin FREE Comparison 📊
-
-#### [TailAdmin PRO](https://demo.tailadmin.com/)
 - 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components
 - 200+ Total UI Elements
@@ -22,7 +15,7 @@ powerful web applications and dashboard-admin projects.
 
 ___
 
-#### [TailAdmin FREE](https://free-demo.tailadmin.com/)
+
 - 1 Unique Dashboard
 - 30+ Dashboard UI Components
 - 50+ Total UI Elements 
@@ -31,15 +24,6 @@ ___
 - Figma Design Source - Free Sample
 ___
 
-### [⬇️ Download Now](https://tailadmin.com/download)
-
-### [⚡ Get PRO Version](https://tailadmin.com/pricing)
-
-### [📄 Documentation/Installation](https://tailadmin.com/docs)
-
-### [🖌️ TailAdmin Figma Free Sample](https://www.figma.com/community/file/1214477970819985778)
-
-### [👉 TailAdmin React](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)
 
 ### Installation
 
@@ -50,7 +34,7 @@ Use terminal and navigate to the project (tailadmin) root.
 - Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template
+git clone https://github.com/mukhriddin-dev/tailAdmin-dashboard.git
 ```
 - Then run : <code>npm install</code> to install dependencies
 
